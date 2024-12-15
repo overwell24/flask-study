@@ -9,4 +9,5 @@
 - 의존성 주입 → `dependency_injection`  
 
 ## 프로젝트 설명
+- [core](core/README.md)
 - [serialization](serialization/README.md)
